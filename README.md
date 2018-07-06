@@ -1,5 +1,5 @@
 # Apuntes de la cátedra "Aplicaciones de Inteligencia Artificial a la Ingeniería".
-## [Facultad Regional San Nicolás (FRSN)](http://www.frsn.utn.edu.ar)
+## <div align="center">[Facultad Regional San Nicolás (FRSN)](http://www.frsn.utn.edu.ar) </div>
 ## Universidad Tecnológica Nacional (UTN)
 
 La materia "*Aplicaciones de Inteligencia Artificial a la Ingeniería*" se comenzó a dictar en el segundo semestre de 2018. Los profesores a cargo son:
